@@ -1,0 +1,6 @@
+C:\Users\Brett\Desktop\Projects\Misc\ForLoop\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\Brett\Desktop\Projects\Misc\ForLoop\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\Brett\Desktop\Projects\Misc\ForLoop\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\Brett\Desktop\Projects\Misc\ForLoop\ForLoop\obj\Debug\ForLoop.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Desktop\Projects\Misc\ForLoop\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\Brett\Desktop\Projects\Misc\ForLoop\ForLoop\obj\Debug\ForLoop.pdb
